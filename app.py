@@ -53,4 +53,3 @@ fig = px.bar(
 )
 st.plotly_chart(fig)
 
-# TODO - clean data
